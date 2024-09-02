@@ -3,15 +3,14 @@
 
 - 🌱 I’m currently learning **Web3!**
 
-- 👨‍💻 My portfolio [https://www.rohittechzone.com/](https://www.rohittechzone.com/)
+- 👨‍💻 My portfolio [https://www.rohitjg.com/](https://www.rohitjg.com/)
 
-- 📫 How to reach me **rohit@rohittechzone.com**
+- 📫 How to reach me **jgrohit.exe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohittechzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohittechzone" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11920547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11920547" height="30" width="40" /></a>
-<a href="https://instagram.com/rohittechzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohittechzone" height="30" width="40" /></a>
+<a href="https://instagram.com/rohitj.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohittechzone" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rohittechzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohittechzone" height="30" width="40" /></a>
 </p>
 
