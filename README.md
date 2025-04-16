@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate full stack developer from India!</h3>
 
-- 🌱 I’m currently learning **AI/ML!**
+- 🌱 I’m currently learning **AI/ML and SwiftUI!**
 
 - 👨‍💻 My portfolio [https://www.rohitjg.com/](https://www.rohitjg.com/)
 
