@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate full stack developer from India!</h3>
+<h3 align="center">A passionate full stack developer from India with a keen interest in embedded systems and the intersection of hardware and software.</h3>
 
 - 🌱 I’m currently learning **AI/ML and SwiftUI!**
 
