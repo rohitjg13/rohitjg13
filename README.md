@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AI/ML and SwiftUI!**
 
-- 👨‍💻 My portfolio [https://www.rohitjg.com/](https://www.rohitjg.com/)
-
 - 📫 How to reach me **jgrohit.exe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
