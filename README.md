@@ -1,20 +1,50 @@
 # Rohit JG
 ### Backend systems. Mobile apps. Embedded firmware. All the way down the stack.
- 
+
 I build things that ship — from APIs handling thousands of daily transactions to firmware running on microcontrollers and microcomputers.
 
+[📬 jgrohit.exe@gmail.com](mailto:jgrohit.exe@gmail.com) · [LinkedIn](https://linkedin.com/in/rohitjg)
+
+---
+
+🚀 Shipped apps to **3,100+ of 5,000 students** at my university
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`Python` `TypeScript` `JavaScript` `C++` `Go`
+
+**Full-Stack**
+`FastAPI` `React` `React Native` `SvelteKit` `Node.js` `REST` `GraphQL`
+
+**Databases**
+`PostgreSQL` `MongoDB` `Supabase`
+
+**AI / GenAI**
+`LangChain` `RAG pipelines` `Qdrant` `YOLOv8` `LLM APIs` `OpenAI`
+
+**Cloud & DevOps**
+`Cloudflare` `Docker` `Git`
+
+**Embedded**
+`Raspberry Pi` `Arduino` `ESP32`
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- <a href="https://www.rohitjg.com">🌐 rohitjg.com</a> · -->
-  <a href="mailto:jgrohit.exe@gmail.com">📬 jgrohit.exe@gmail.com</a> ·
-  <a href="https://linkedin.com/in/rohitjg">LinkedIn</a> ·
-  <!-- <a href="https://instagram.com/rohitj.g">Instagram</a> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitjg13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjg13&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitjg13&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
-
-## 🚀 Shipped apps to **3,100+ of 5,000 students** at my university
----
-
 
 ## 🏆 Achievements
 
