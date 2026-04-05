@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rohitjg.com">🌐 rohitjg.com</a> ·
+  <!-- <a href="https://www.rohitjg.com">🌐 rohitjg.com</a> · -->
   <a href="mailto:jgrohit.exe@gmail.com">📬 jgrohit.exe@gmail.com</a> ·
   <a href="https://linkedin.com/in/rohitjg">LinkedIn</a> ·
   <a href="https://instagram.com/rohitj.g">Instagram</a>
