@@ -1,10 +1,7 @@
-<h1 align="center">Rohit JG</h1>
-<h3 align="center">Full-stack developer · ECE undergrad @ Shiv Nadar IoE · GDG Dev Team Lead</h3>
-
-<p align="center">
-  I build things that ship — from backend systems handling thousands of daily transactions to embedded firmware talking to sensors over I2C.
-  Currently exploring the overlap between software, hardware, and AI.
-</p>
+# Rohit JG
+### Backend systems. Mobile apps. Embedded firmware. All the way down the stack.
+ 
+I build things that ship — from APIs handling thousands of daily transactions to firmware running on microcontrollers and microcomputers.
 
 <p align="center">
   <!-- <a href="https://www.rohitjg.com">🌐 rohitjg.com</a> · -->
