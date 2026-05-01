@@ -37,7 +37,6 @@ I build things that ship — from APIs handling thousands of daily transactions 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitjg13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjg13&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
